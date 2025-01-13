@@ -17,12 +17,12 @@ export default function Err() {
         <div className="mb-8 flex flex-col items-center justify-center">
         <div className="relative w-[30%] h-[60px] mb-4">      
           <Image 
-           src="./retirer.png"
+           src="/retirer.png"
            fill>
           </Image>
         </div>          
           <p className="text-md text-gray-700">
-          حدث خطأ في تنفيذ العملية أعد المحاولة
+          حدث اااااخطأ في تنفيذ العملية أعد المحاولة
           </p>
         </div>
                   <button
