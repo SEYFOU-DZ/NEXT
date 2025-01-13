@@ -22,7 +22,7 @@ export default function Err() {
           </Image>
         </div>          
           <p className="text-md text-gray-700">
-          حدث اااااخطأ في تنفيذ العملية أعد المحاولة
+          حدث خطأ في تنفيذ العملية أعد المحاولة
           </p>
         </div>
                   <button
